@@ -1,7 +1,3 @@
-# shadcn-vue Experimental
+# Exploring shadcn-vue Styling Patterns in React First
 
-Vue 3 experimental project using:
-- Vue 3 + TypeScript + Vite
-- shadcn-vue components
-- TailwindCSS
-- Composition API with `<script setup>`
+Port shadcn/ui and its styling patterns to Vue, exploring similarities and differences in implementation and architecture.
